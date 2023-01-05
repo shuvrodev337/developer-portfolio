@@ -130,3 +130,6 @@ main {
 .resume{
     margin-top: 130px;
 }
+.resume-content{
+    display: flex;
+}
